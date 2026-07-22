@@ -1,0 +1,8 @@
+.metric,.estimator,mean,n,std_err,.config,model
+accuracy,binary,0.8165898617511521,12,0.013919994850831813,pre0_mod0_post0,Low-cost RF with month-blocked validation
+bal_accuracy,binary,0.541646048882891,12,0.04181579571919041,pre0_mod0_post0,Low-cost RF with month-blocked validation
+f_meas,binary,0.8955762765707285,12,0.007231206455351227,pre0_mod0_post0,Low-cost RF with month-blocked validation
+pr_auc,binary,0.8783268694193167,12,0.020731386387227244,pre0_mod0_post0,Low-cost RF with month-blocked validation
+roc_auc,binary,0.6522310145994357,12,0.04846908808571435,pre0_mod0_post0,Low-cost RF with month-blocked validation
+sens,binary,0.9629217273954116,12,0.009039523057388059,pre0_mod0_post0,Low-cost RF with month-blocked validation
+spec,binary,0.12037037037037036,12,0.08144129710058415,pre0_mod0_post0,Low-cost RF with month-blocked validation

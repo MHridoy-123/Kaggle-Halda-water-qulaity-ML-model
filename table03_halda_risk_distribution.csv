@@ -1,0 +1,4 @@
+risk_label,risk_severity,n,percent
+not_high_risk,Low-moderate exceedance,296,81.1
+high_risk,High exceedance,65,17.81
+high_risk,Very high exceedance,4,1.1
